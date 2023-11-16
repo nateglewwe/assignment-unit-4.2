@@ -1,0 +1,21 @@
+h2 {
+    background-color: gray;
+    color: aquamarine;
+    margin-left: 25%;
+    width: 50%;
+}
+
+h3 {
+    background-color: white;
+    color: darkgreen;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.info {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+}
